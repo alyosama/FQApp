@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">FQApp</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello World, PhotoIntentActivity!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="btnIntend">Select Image</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
 </resources>
